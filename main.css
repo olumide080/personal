@@ -1,0 +1,35 @@
+body{width: 1300px; height: 700px;font-family: 'EB Garamond', serif;
+}
+ #profile{position: absolute; top:  430px; left: 580px;
+     width: 200px;height:215px;
+ border-radius: 100%}
+ #my{position: absolute;
+    top: 25px; left: 580px;
+    color: rgba(13, 12, 15, 0.932);
+    letter-spacing: -;}
+#front{position: absolute;
+        top: 190px; left:425px ;
+    letter-spacing: -1.0px;
+    color: gray;}
+#background{width: 1366px; height: 760px;}
+#hello{    color: gray;
+    position: absolute;top: 160px; left: 530px;
+width: 400px}
+#what{position: absolute; top: 110px; left: 655px;}
+#have{    color:gray;
+    position: absolute;top: 180px; left: 480px;
+width: 600px;}
+#work{    color: gray;
+    position: absolute;top: 280px; left: 530px;
+width: 400px;}
+#learn{    color: gray;
+    position: absolute;top: 300px; left: 480px;
+width: 600px;}
+#you{ color: gray;
+    position: absolute;top: 350px; left: 510px;
+width: 600px;}
+#facebook{position: absolute; top: 700px; left: 590px;}
+#instagram{position: absolute; top: 700px; left: 670px;}
+#twitter{position: absolute; top: 700px; left: 750px;}
+#google{position: absolute; top: 700px; left: 830px;}
+a:hover{color: hotpink;}
